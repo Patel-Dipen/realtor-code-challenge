@@ -1,0 +1,48 @@
+.profile-page {
+  width: 100%;
+}
+
+.profile-title {
+  display: flex;
+  justify-content: center;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+}
+
+.profile-image {
+  flex: 1;
+  text-align: right;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.profile-pic {
+  width: 25%;
+  height: auto;
+}
+
+.profile-info {
+  flex: 1;
+  table {
+    border-spacing: 10px;
+  }
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.detail-color {
+  color: #777777;
+}
+
+.bio-position {
+  position: absolute;
+}
+
+.bio {
+  inline-size: 200px;
+}

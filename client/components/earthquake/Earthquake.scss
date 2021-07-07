@@ -1,0 +1,21 @@
+.eq-page {
+  width: 100%;
+}
+
+.eq-title {
+  display: flex;
+  justify-content: center;
+}
+
+.eq-detail {
+  display: flex;
+  justify-content: center;
+
+  table {
+    border-spacing: 5px;
+  }
+}
+
+.detail-color {
+  color: #777777
+}

@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  background: #ededed;
+}
+
+.home-logo {
+  // width: 33%;
+  flex: 1;
+  text-align: initial;
+  margin: auto;
+  padding: 10px;
+}
+
+.title {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  h2 {
+    color: #777777;
+  }
+}
+
+.profile-link {
+  flex: 1;
+  text-align: right;
+  margin: auto;
+  padding: 10px;
+}
+
+.resize {
+  width: 50px;
+  height: auto;
+}
